@@ -23,7 +23,7 @@ function Header() {
             className="flex-1 outline-none" />
           <button type='submit' hidden>Search</button>
         </form>
-
+      
         {/* Avatar */}
       </div>
     </header>
